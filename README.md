@@ -1,13 +1,7 @@
-# RoboHand V2 
+# RoboHand V2 (RH-2W)
 
 <p align="center">
-  <img src="docs/photos/robohand-cover.svg" alt="RoboHand V2 wearable Hand Controller" width="800"/>
-</p>
-
-<p align="center">
-  <img src="docs/photos/RoboHand_V2.jpg" alt="Printed RoboHand V2" width="420"/>
-  &nbsp;
-  <img src="docs/photos/HandController.jpg" alt="Wearable Hand Controller" width="420"/>
+  <img src="docs/photos/01_hand_outdoor.jpg" alt="RoboHand V2" width="720"/>
 </p>
 
 3D-printed tendon-driven robotic hand with a **wearable Hand Controller**.
@@ -17,6 +11,40 @@ Five analog joysticks on a glove follow your fingers. An ESP32 on the glove send
 MakerWorld V1: [RoboHand](https://makerworld.com/en/models/2298640-robohand)
 
 V1 firmware (button remote): [kponomareva452-hue/RoboHand](https://github.com/kponomareva452-hue/RoboHand)
+
+---
+
+## Photos
+
+<p align="center">
+  <img src="docs/photos/02_hand_standing.jpg" alt="Standing hand" width="360"/>
+  <img src="docs/photos/03_hand_controller.jpg" alt="Hand Controller" width="360"/>
+</p>
+
+<p align="center">
+  <img src="docs/photos/04_controller_packed.jpg" alt="Packed controller" width="360"/>
+  <img src="docs/photos/05_controller_board.jpg" alt="Controller board" width="360"/>
+</p>
+
+<p align="center">
+  <img src="docs/photos/06_controller_wiring.jpg" alt="Controller wiring" width="360"/>
+  <img src="docs/photos/07_controller_schematic.jpg" alt="Controller schematic" width="360"/>
+</p>
+
+<p align="center">
+  <img src="docs/photos/08_finger_parts.jpg" alt="Finger parts" width="360"/>
+  <img src="docs/photos/09_tpu_joint.jpg" alt="TPU joint" width="360"/>
+</p>
+
+<p align="center">
+  <img src="docs/photos/10_palm_print.jpg" alt="Palm print" width="360"/>
+  <img src="docs/photos/11_assembled_palm.jpg" alt="Assembled palm" width="360"/>
+</p>
+
+<p align="center">
+  <img src="docs/photos/12_forearm_servos.jpg" alt="Forearm servos" width="360"/>
+  <img src="docs/photos/13_tendons.jpg" alt="Tendons" width="360"/>
+</p>
 
 ---
 
