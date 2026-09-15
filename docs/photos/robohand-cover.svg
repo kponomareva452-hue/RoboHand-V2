@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="#0f1720"/>
+  <text x="40" y="48" fill="#f4f4f5" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">RoboHand V2</text>
+  <text x="40" y="78" fill="#a1a1aa" font-family="Arial, Helvetica, sans-serif" font-size="16">RH-2W  ·  wearable Hand Controller</text>
+  <rect x="70" y="160" width="280" height="110" rx="18" fill="#f4f4f5"/>
+  <rect x="86" y="176" width="248" height="78" rx="10" fill="#e4e4e7"/>
+  <circle cx="120" cy="215" r="10" fill="#52525b"/>
+  <circle cx="160" cy="215" r="10" fill="#52525b"/>
+  <circle cx="200" cy="215" r="10" fill="#52525b"/>
+  <circle cx="240" cy="215" r="10" fill="#52525b"/>
+  <circle cx="280" cy="215" r="10" fill="#52525b"/>
+  <rect x="340" y="150" width="150" height="140" rx="28" fill="#6d4aa8"/>
+  <rect x="360" y="58" width="22" height="100" rx="11" fill="#f5c63a"/>
+  <rect x="392" y="42" width="22" height="116" rx="11" fill="#f5c63a"/>
+  <rect x="424" y="48" width="22" height="110" rx="11" fill="#f5c63a"/>
+  <rect x="456" y="70" width="22" height="88" rx="11" fill="#f5c63a"/>
+  <rect x="318" y="188" width="28" height="78" rx="14" fill="#f5c63a" transform="rotate(-28 332 227)"/>
+  <text x="40" y="370" fill="#71717a" font-family="Arial, Helvetica, sans-serif" font-size="14">PETG + TPU 95A  ·  MG90S  ·  ESP-NOW</text>
+</svg>
