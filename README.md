@@ -1,5 +1,9 @@
 # RoboHand V2 (RH-2W)
 
+<p align="center">
+  <img src="01_hand_outdoor.jpg" alt="RoboHand V2" width="720"/>
+</p>
+
 3D-printed tendon-driven robotic hand with a **wearable Hand Controller**.
 
 Five analog joysticks on a glove follow your fingers. An ESP32 on the glove sends the values over **ESP-NOW**. A second ESP32 in the forearm drives five **MG90S** servos through a **PCA9685**. Fingers close on fishing-line tendons and open on printed **TPU 95A** return links.
@@ -12,9 +16,35 @@ V1 firmware (button remote): [kponomareva452-hue/RoboHand](https://github.com/kp
 
 ## Photos
 
-Upload the 13 JPEGs into `docs/photos/` (Add file → Upload files). After that, they show here:
+<p align="center">
+  <img src="02_hand_standing.jpg" alt="Standing hand" width="360"/>
+  <img src="03_hand_controller.jpg" alt="Hand Controller" width="360"/>
+</p>
 
-`01_hand_outdoor.jpg` · `02_hand_standing.jpg` · `03_hand_controller.jpg` · `04_controller_packed.jpg` · `05_controller_board.jpg` · `06_controller_wiring.jpg` · `07_controller_schematic.jpg` · `08_finger_parts.jpg` · `09_tpu_joint.jpg` · `10_palm_print.jpg` · `11_assembled_palm.jpg` · `12_forearm_servos.jpg` · `13_tendons.jpg`
+<p align="center">
+  <img src="04_controller_packed.jpg" alt="Packed controller" width="360"/>
+  <img src="05_controller_board.jpg" alt="Controller board" width="360"/>
+</p>
+
+<p align="center">
+  <img src="06_controller_wiring.jpg" alt="Controller wiring" width="360"/>
+  <img src="07_controller_schematic.jpg" alt="Controller schematic" width="360"/>
+</p>
+
+<p align="center">
+  <img src="08_finger_parts.jpg" alt="Finger parts" width="360"/>
+  <img src="09_tpu_joint.jpg" alt="TPU joint" width="360"/>
+</p>
+
+<p align="center">
+  <img src="10_palm_print.jpg" alt="Palm print" width="360"/>
+  <img src="11_assembled_palm.jpg" alt="Assembled palm" width="360"/>
+</p>
+
+<p align="center">
+  <img src="12_forearm_servos.jpg" alt="Forearm servos" width="360"/>
+  <img src="13_tendons.jpg" alt="Tendons" width="360"/>
+</p>
 
 ---
 
