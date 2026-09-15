@@ -1,4 +1,14 @@
-# RoboHand V2 
+# RoboHand V2 (RH-2W)
+
+<p align="center">
+  <img src="docs/photos/robohand-cover.svg" alt="RoboHand V2 wearable Hand Controller" width="800"/>
+</p>
+
+<p align="center">
+  <img src="docs/photos/RoboHand_V2.jpg" alt="Printed RoboHand V2" width="420"/>
+  &nbsp;
+  <img src="docs/photos/HandController.jpg" alt="Wearable Hand Controller" width="420"/>
+</p>
 
 3D-printed tendon-driven robotic hand with a **wearable Hand Controller**.
 
@@ -12,18 +22,13 @@ V1 firmware (button remote): [kponomareva452-hue/RoboHand](https://github.com/kp
 
 ## What is in this repo
 
-```
-firmware/     ESP32 sketches (Arduino IDE)
-hardware/     Bambu Studio 3MF (add the file from MakerWorld if missing)
-docs/         Build notes
-```
-
 | File | Board | Job |
 |---|---|---|
 | `firmware/RoboHand_V2_Controller_Sender/` | Glove ESP32 | Read 5 joysticks, send ESP-NOW |
 | `firmware/RoboHand_V2_Hand_Receiver/` | Hand ESP32 | Receive packet, drive PCA9685 |
 | `firmware/RoboHand_ServoCalibrator/` | Hand ESP32 | Live pulse test over Serial |
 | `firmware/RoboHand_FingerValues/` | Hand ESP32 | Edit open/close values in code |
+| `RoboHandV2.3mf` | — | Print plates |
 
 ---
 
