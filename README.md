@@ -1,4 +1,4 @@
-# RoboHand V2 (RH-2W)
+# RoboHand V2 
 
 <p align="center">
   <img src="docs/photos/robohand-cover.svg" alt="RoboHand V2 wearable Hand Controller" width="800"/>
