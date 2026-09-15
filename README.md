@@ -1,16 +1,16 @@
 # RoboHand V2 (RH-2W)
 
 <p align="center">
-  <img src="01_hand_outdoor.jpg" alt="RoboHand V2" width="720"/>
+  <img src="01_hand_outdoor.jpg" alt="RoboHand V2 on grass" width="720"/>
 </p>
 
 3D-printed tendon-driven robotic hand with a **wearable Hand Controller**.
 
 Five analog joysticks on a glove follow your fingers. An ESP32 on the glove sends the values over **ESP-NOW**. A second ESP32 in the forearm drives five **MG90S** servos through a **PCA9685**. Fingers close on fishing-line tendons and open on printed **TPU 95A** return links.
 
-MakerWorld V1: [RoboHand](https://makerworld.com/en/models/2298640-robohand)
+Print files: [RoboHandV2 with wearable HandController on MakerWorld](https://makerworld.com/en/models/3312121-robohandv2-with-wearable-handcontroller#profileId-3760254)
 
-V1 firmware (button remote): [kponomareva452-hue/RoboHand](https://github.com/kponomareva452-hue/RoboHand)
+Version 1 (button remote): [MakerWorld](https://makerworld.com/en/models/2298640-robohand) · [GitHub](https://github.com/kponomareva452-hue/RoboHand)
 
 ---
 
