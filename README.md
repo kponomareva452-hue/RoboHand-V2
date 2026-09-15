@@ -1,4 +1,4 @@
-# RoboHand V2 (RH-2W)
+# RoboHand V2 
 
 3D-printed tendon-driven robotic hand with a **wearable Hand Controller**.
 
