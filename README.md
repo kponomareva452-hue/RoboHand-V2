@@ -1,7 +1,7 @@
 # RoboHand V2 (RH-2W)
 
 <p align="center">
-  <img src="00_hand_on_grass.jpg" alt="RoboHand V2 on grass" width="720"/>
+  <img src="MainPicture.jpg" alt="RoboHand V2 on grass" width="720"/>
 </p>
 
 3D-printed tendon-driven robotic hand with a **wearable Hand Controller**.
